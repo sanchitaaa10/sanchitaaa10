@@ -5,5 +5,7 @@
 📚 I'm always eager to enhance my skills and connect with like-minded tech enthusiasts. Let's innovate, learn, and grow together!
 -->
 
+![sanchita's github](https://github-readme-stats.vercel.app/api?username=sanchitaaa10&show_icons=true&theme=tokyonight)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchitaaa10)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitaaa10)](https://github.com/anuraghazra/github-readme-stats)
