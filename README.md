@@ -5,6 +5,8 @@
 
 📚 I'm always eager to enhance my skills and connect with like-minded tech enthusiasts. Let's innovate, learn, and grow together!
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Canva&weight=200&size=25&pause=1000&color=967DF7&width=435&height=53&lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__sanchitaa10) 
 
