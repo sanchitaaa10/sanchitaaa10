@@ -16,15 +16,17 @@ Welcome to my GitHub profile! I'm a passionate and dedicated **B.Tech Computer S
 - **Frameworks & Libraries**: [Insert frameworks, e.g., "React, TensorFlow"]
 - **Tools & Platforms**: [Insert tools, e.g., "Git, Docker, VS Code"]
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 📫 Let's Connect
 - LinkedIn: [Your LinkedIn](#)
-- Email: [Your Email](mailto:your.email@example.com)
+- Email: [2024.sanchitas@isu.ac.in](2024.sanchitas@isu.ac.in)
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchitaaa10&show_icons=true&theme=radical)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitaaa10&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchitaaa10&show_icons=true&theme=tokyonight)
+
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thanks+for+stopping+by!;)](https://git.io/typing-svg)
