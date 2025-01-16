@@ -8,13 +8,9 @@ Welcome to my GitHub profile! I'm a passionate and dedicated **B.Tech Computer S
 ## 🚀 About Me
 - 🎓 Pursuing B.Tech in CSE at ITM Skills University
 - 💻 Exploring the fields of software development, data science, and AI
-- 🌱 Currently learning C++, python
+- 🌱 Currently learning python, C++ and Java
 - 🔗 Check out my projects and contributions below
 
-## 🛠️ Skills and Tools
-- **Programming Languages**: [Insert languages, e.g., "Python, Java, C++"]
-- **Frameworks & Libraries**: [Insert frameworks, e.g., "React, TensorFlow"]
-- **Tools & Platforms**: [Insert tools, e.g., "Git, Docker, VS Code"]
 
 
 ## 📫 Let's Connect
