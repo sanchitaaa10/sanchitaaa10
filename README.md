@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated **B.Tech Computer S
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thanks+for+stopping+by!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thanks+for+stopping+by!;)](https://git.io/typing-svg)</br>
 ✨ Feel free to explore my repositories and connect with me.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
