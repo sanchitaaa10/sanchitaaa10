@@ -29,4 +29,9 @@ Welcome to my GitHub profile! I'm a passionate and dedicated **B.Tech Computer S
 ✨ Feel free to explore my repositories and connect with me.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
+<img src="https://raw.githubusercontent.com/sanchitaaa10/sanchitaaa10/output/snake.svg" alt="Snake animation" />
+
+###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
