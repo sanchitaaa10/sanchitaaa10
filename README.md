@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated **B.Tech Computer S
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitaaa10&layout=compact)
-
+          
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thanks+for+stopping+by!;)](https://git.io/typing-svg)</br>
